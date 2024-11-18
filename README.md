@@ -131,7 +131,6 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/74d43826-219c-4098-b0f3-85f5e44e2ff8)
 
 
 # RESULT:
