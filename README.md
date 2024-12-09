@@ -22,7 +22,7 @@ Execute the C Program for the desired output.
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 
-```
+```c
 //shmry1.c
 
 #include<unistd.h> 
@@ -80,7 +80,7 @@ exit(EXIT_FAILURE);
 }
 ```
 
-```
+```c
 //shmry2.c
 
 #include<unistd.h> 
